@@ -1,4 +1,4 @@
-package com.sumariodopedido.entities;
+package com.ordersummary.entities;
 
 public class OrderItem {
 	

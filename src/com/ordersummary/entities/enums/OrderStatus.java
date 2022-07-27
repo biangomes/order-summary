@@ -1,4 +1,4 @@
-package com.sumariodopedido.entities.enums;
+package com.ordersummary.entities.enums;
 
 public enum OrderStatus {
 	PENDING_PAYMENT,

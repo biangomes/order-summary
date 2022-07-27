@@ -1,4 +1,4 @@
-package com.sumariodopedido.application;
+package com.ordersummary.application;
 
 import java.util.Date;
 import java.text.ParseException;
@@ -6,11 +6,11 @@ import java.text.SimpleDateFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
-import com.sumariodopedido.entities.Client;
-import com.sumariodopedido.entities.Order;
-import com.sumariodopedido.entities.OrderItem;
-import com.sumariodopedido.entities.Product;
-import com.sumariodopedido.entities.enums.OrderStatus;
+import com.ordersummary.entities.Client;
+import com.ordersummary.entities.Order;
+import com.ordersummary.entities.OrderItem;
+import com.ordersummary.entities.Product;
+import com.ordersummary.entities.enums.OrderStatus;
 
 public class Program {
 

@@ -1,11 +1,11 @@
-package com.sumariodopedido.entities;
+package com.ordersummary.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import com.sumariodopedido.entities.enums.OrderStatus;
+import com.ordersummary.entities.enums.OrderStatus;
 
 public class Order {
 	

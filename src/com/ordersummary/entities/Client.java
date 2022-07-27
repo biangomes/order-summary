@@ -1,4 +1,4 @@
-package com.sumariodopedido.entities;
+package com.ordersummary.entities;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
